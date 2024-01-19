@@ -1,0 +1,2 @@
+# blokus
+AI project
